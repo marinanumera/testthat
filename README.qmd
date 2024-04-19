@@ -1,3 +1,9 @@
+---
+title: "README"
+format: html
+editor: visual
+---
+
 
 # Exemplos de testthat
 
@@ -16,4 +22,4 @@ Cria um arquivo de testes só. Esse exemplo mostra como da para rodar os testes 
 Exemplo veio de: <https://stackoverflow.com/questions/70497967/run-testthats-test-thats-within-a-script>
 
 # OUTROS LINKS
-
+https://www.r-bloggers.com/2019/11/automated-testing-with-testthat-in-practice/
