@@ -1,8 +1,4 @@
----
-title: "README"
-format: html
-editor: visual
----
+
 
 
 # Exemplos de testthat
